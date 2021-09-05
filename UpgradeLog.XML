@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="HSBTE">
+</Property><Property Name="Solution File" Value="F:\VisualStudionProjectsHSBTE\HSBTE\HSBTE\HSBTE.sln">
+</Property><Property Name="Date" Value="Thursday, August 6, 2020">
+</Property><Property Name="Time" Value="9:57 AM">
+</Property></Properties><Event ErrorLevel="0" Project="HSBTE" Source="HSBTE\HSBTE.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="HSBTE" Source="HSBTE\HSBTE.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="HSBTE.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="HSBTE.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="HSBTE" Source="HSBTE\app.config" Description="File converted successfully. All &lt;supportedRuntime&gt; and &lt;requiredRuntime&gt; tags were removed to enable the project to build and run with Visual Studio 2005.">
+</Event><Event ErrorLevel="3" Project="HSBTE" Source="HSBTE\app.config" Description="Converted">
+</Event></UpgradeLog>
